@@ -34,6 +34,8 @@
   </a>
 </p>
 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/cclarice)](https://github.com/JaeSeoKim/badge42)
+
 <!--
 **cclarice/cclarice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
