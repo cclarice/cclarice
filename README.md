@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://github.com/cclarice">
-    <img src="https://github.com/cclarice/images/blob/main/Logos/empty.png" height="70px>
+    <img src="https://github.com/cclarice/images/blob/main/Logos/empty.png" height="35px>
   </a>
                                                                                     
   <a href="https://profile.intra.42.fr/users/cclarice">
@@ -18,7 +18,7 @@
   </a>
                                                                                             
   <a href="https://github.com/cclarice">
-    <img src="https://github.com/cclarice/images/blob/main/Logos/empty.png" height="70px>
+    <img src="https://github.com/cclarice/images/blob/main/Logos/empty.png" height="35px>
   </a>
   
   <a href="https://t.me/cclarice">
@@ -26,7 +26,7 @@
   </a>
                                                                                             
   <a href="https://github.com/cclarice">
-    <img src="https://github.com/cclarice/images/blob/main/Logos/empty.png" height="70px>
+    <img src="https://github.com/cclarice/images/blob/main/Logos/empty.png" height="35px>
   </a>
                                                                                     
   <a href="https://github.com/cclarice">
