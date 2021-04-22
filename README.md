@@ -30,7 +30,7 @@
   </a>
                                                                                     
   <a href="https://github.com/cclarice">
-    <img src="https://github.com/cclarice/images/blob/main/Foxes/Fox%20Sitting%20Light.png" height="16%">
+    <img src="https://github.com/cclarice/images/blob/main/Foxes/Fox%20Sitting%20Light.png" width="16%">
   </a>
 </p>
 
