@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://vk.com/cclarice">
-   <img src="https://github.com/cclarice/images/blob/main/Logos/vk.png" height="140px">
+   <img src="https://github.com/cclarice/images/blob/main/Logos/vk.png" width="40%">
   </a>
   
   <a href="https://github.com/cclarice">
