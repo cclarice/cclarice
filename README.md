@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/cclarice">
-    <img src="https://github.com/cclarice/images/blob/main/Strings/cclarice_logo_obv.png" height="140px">
+    <img src="https://github.com/cclarice/images/blob/main/Strings/cclarice_logo_obv.png">
   </a>
 </p>
 
