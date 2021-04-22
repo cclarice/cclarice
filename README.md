@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img height="35em" src="https://pa1.narvii.com/6750/5b7f851a08e87c1c544f2a6008b4fa752de4459e_hq.gif"/>
+  <img src="https://pa1.narvii.com/6750/5b7f851a08e87c1c544f2a6008b4fa752de4459e_hq.gif"/>
 </p>
 
 <!--
