@@ -26,7 +26,7 @@
   </a>
   
   <a href="https://github.com/cclarice">
-    <img src="https://github.com/cclarice/images/blob/main/Foxes/Fox%20Sitting%20Light.png"/>
+    <img src="https://github.com/cclarice/images/blob/main/Foxes/Fox%20Sitting%20Light.png" height="140px>
   </a>
 </p>
 
