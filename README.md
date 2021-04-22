@@ -4,9 +4,8 @@
   <img src="https://pa1.narvii.com/6750/5b7f851a08e87c1c544f2a6008b4fa752de4459e_hq.gif"/>
 </p>
 
-<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1410px"
-	 height="150px" viewBox="0 0 1410 150" style="overflow:visible;enable-background:new 0 0 1410 150;" xml:space="preserve">
+	 height="150px" viewBox="0 0 1410 150" style="overflow:visible;enable-background:new 0 0 0 0;" xml:space="preserve">
 <defs>
 </defs>
 <g>
@@ -28,8 +27,6 @@
 		c0,4.14-1.68,7.89-4.38,10.62c-2.73,2.7-6.48,4.38-10.62,4.38h-45v30H1410z"/>
 </g>
 </svg>
-![image](https://user-images.githubusercontent.com/78375529/115788602-7c5c1f00-a3cc-11eb-8289-af099ac76e7b.png)
-
 
 <!--
 **cclarice/cclarice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
