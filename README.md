@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://vk.com/cclarice">
-     <img src="https://github.com/cclarice/images/blob/main/Logos/vk.png" height="35em">
+     <img src="https://github.com/cclarice/images/blob/main/Logos/vk.png" height="120px">
   </a>
   <a href="https://profile.intra.42.fr/users/cclarice">
-      <img src="https://github.com/cclarice/images/blob/main/Logos/intra.png" height="35em">
+      <img src="https://github.com/cclarice/images/blob/main/Logos/intra.png" height="120px">
   </a>
   <a href="https://t.me/cclarice">
-      <img src="https://github.com/cclarice/images/blob/main/Logos/telegram.png" height="35em">
+      <img src="https://github.com/cclarice/images/blob/main/Logos/telegram.png" height="120px">
   </a>
 </p>
 
