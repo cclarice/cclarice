@@ -24,7 +24,11 @@
   <a href="https://t.me/cclarice">
     <img src="https://github.com/cclarice/images/blob/main/Logos/telegram.png" height="140px">
   </a>
-  
+                                                                                            
+  <a href="https://github.com/cclarice">
+    <img src="https://github.com/cclarice/images/blob/main/Logos/empty.png" height="70px>
+  </a>
+                                                                                    
   <a href="https://github.com/cclarice">
     <img src="https://github.com/cclarice/images/blob/main/Foxes/Fox%20Sitting%20Light.png" height="140px">
   </a>
