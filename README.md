@@ -1,9 +1,13 @@
-<p href="https://vk.com/m_moonlight_l", align="center">
-  <img src="https://github.com/cclarice/images/blob/main/Strings/cclarice_logo_obv.png"/>
+<p align="center">
+  <a href="https://github.com/cclarice">
+    <img src="https://github.com/cclarice/images/blob/main/Strings/cclarice_logo_obv.png"/>
+  </a>
 </p>
 
-<p href="https://vk.com/m_moonlight_l", align="center">
-  <img src="https://github.com/cclarice/images/blob/main/Foxes/Fox%20Sitting%20Light.png"/>
+<p align="center">
+  <a href="https://github.com/cclarice">
+    <img src="https://github.com/cclarice/images/blob/main/Foxes/Fox%20Sitting%20Light.png"/>
+  </a>
 </p>
 
 <!--
