@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img src="https://github.com/cclarice/images/blob/main/Strings/cclarice_logo_obv.png"/>
 </p>
