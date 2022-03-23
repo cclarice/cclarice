@@ -1,3 +1,10 @@
+```mermaid
+graph LR;
+  repeat(("repeat()"))-->eat
+  eat("🍍 Eat")-->code("👨‍💻 Code")-->mtb("🚲 MTB")-->sleep("💤 Sleep")
+  sleep-->eat
+```
+
 <!--<p align="center">
   <a href="https://github.com/cclarice">
     <img src="https://github.com/cclarice/images/blob/main/Strings/cclarice_logo_obv.png">
